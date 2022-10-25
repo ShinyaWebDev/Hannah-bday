@@ -230,7 +230,7 @@ const circleData = {
             h: 144,
           },
           caption: `Want to blow some candles?`,
-          link: linkButton('/../candle/candle.html', `yeah, sure!`),
+          link: linkButton('../candle/candle.html', `yeah, sure!`),
           button: 'meh'
         },
       },
