@@ -216,8 +216,8 @@ const circleData = {
             w: 72,
             h: 72,
           },
-          caption: `Here's Hannah's twitter, if you're into that sort of thing`,
-          link: linkButton('https://twitter.com/ShinyaWeb', `yeah, I'm into that sort of thing`)
+          caption: `Do you want to see some firework??`,
+          link: linkButton('../FireWorks/firework.html', `yes, please!!`)
         },
       },
       {
@@ -261,7 +261,7 @@ const circleData = {
             h: 130,
           },
           caption: 'Want to draw a kitten?',
-          link: linkButton('https://www.youtube.com/watch?v=49YK53Tki0s', `of course!`)
+          link: linkButton('../PixelArt/pixel.html', `of course!`)
         }, 
       },
       { element: 'tree', angle: 150, offset: 40 },
